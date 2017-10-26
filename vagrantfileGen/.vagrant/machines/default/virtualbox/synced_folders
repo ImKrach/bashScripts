@@ -1,0 +1,1 @@
+{"virtualbox":{"/lol":{"guestpath":"/lol","hostpath":"/home/apprenant/linux/bash/TP3/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/apprenant/linux/bash/TP3","disabled":false,"__vagrantfile":true}}}
